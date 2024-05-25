@@ -7,7 +7,7 @@ let quizQuestions = [
         answer: "Type script compiler"
     },
     {
-        question: "What is extension for typescript file",
+        question: "What is extension for typescript file?",
         choices: ["abc.js", "abc.tsc", "abc.ts", "none of the above"],
         answer: "abc.ts"
     },
@@ -25,7 +25,7 @@ let quizQuestions = [
     {
         question: "What is the syntax for declaring a variable in Javascript?",
         choices: ["var", "let", "const", "All of the above"],
-        answer: "Type script compiler"
+        answer: "All of the above"
     },
     {
         question: "Which of the following is not a primitive datatype in typescript?",
